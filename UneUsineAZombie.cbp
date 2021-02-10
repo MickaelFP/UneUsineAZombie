@@ -35,8 +35,18 @@
 			<Add option="-fexceptions" />
 		</Compiler>
 		<Unit filename="include/Zombie.h" />
+		<Unit filename="include/ZombieBomber.h" />
+		<Unit filename="include/ZombieFusion.h" />
+		<Unit filename="include/ZombieMage.h" />
+		<Unit filename="include/ZombieRapace.h" />
+		<Unit filename="include/ZombieTank.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/Zombie.cpp" />
+		<Unit filename="src/ZombieBomber.cpp" />
+		<Unit filename="src/ZombieFusion.cpp" />
+		<Unit filename="src/ZombieMage.cpp" />
+		<Unit filename="src/ZombieRapace.cpp" />
+		<Unit filename="src/ZombieTank.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>

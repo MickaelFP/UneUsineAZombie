@@ -13,3 +13,36 @@
 	"Zombie.h"
 	<iostream>
 
+1612952682 source:c:\users\render\documents\github\uneusineazombie\src\zombie.cpp
+	"Zombie.h"
+
+1612952305 c:\users\render\documents\github\uneusineazombie\include\zombie.h
+	<string>
+	<iostream>
+	<random>
+	<ctime>
+	<stdlib.h>
+
+1612955312 source:c:\users\render\documents\github\uneusineazombie\main.cpp
+	<iostream>
+	"ZombieBomber.h"
+	"ZombieFusion.h"
+	"ZombieMage.h"
+	"ZombieRapace.h"
+	"ZombieTank.h"
+
+1612955244 c:\users\render\documents\github\uneusineazombie\include\zombiebomber.h
+	"Zombie.h"
+
+1612953946 c:\users\render\documents\github\uneusineazombie\include\zombiefusion.h
+	"Zombie.h"
+
+1612953945 c:\users\render\documents\github\uneusineazombie\include\zombiemage.h
+	"Zombie.h"
+
+1612953944 c:\users\render\documents\github\uneusineazombie\include\zombierapace.h
+	"Zombie.h"
+
+1612953930 c:\users\render\documents\github\uneusineazombie\include\zombietank.h
+	"Zombie.h"
+
